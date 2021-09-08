@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="/a.dummy">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/fragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/Cucumber/aqa/epam-automation/src/main/java/ca/canadiantire/pageobject/pages/impl/aem/HomePage.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/Cucumber/aqa/epam-automation/src/main/java/ca/canadiantire/stepdefs/aem/SearchResultsAutomotivePageDefinitionSteps.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/Cucumber/aqa/epam-automation/src/main/resources/features/e2e/search_and_navigation.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/Cucumber/aqa/epam-automation/src/main/resources/features/placeholder.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$MAVEN_REPOSITORY$/org/testng/testng/6.14.3/testng-6.14.3.jar!/org/testng/Assert.class">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/AvicProject/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/AvicProject/src/test/java/avic/AvicSmokeTests.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../../Cucumber/aqa/AvicTests/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../../Cucumber/aqa/AvicTests/src/test/java/avic/AvicTests.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../../Cucumber/aqa/cucumber-automation/src/main/java/ca/canadiantire/pageobject/components/impl/aem/header/StoreInfoBlock.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../../Cucumber/aqa/cucumber-automation/src/main/java/ca/canadiantire/stepdefs/hybris/webservices/order/WebserviceHybrisOrderDefinitionSteps.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../../Cucumber/aqa/cucumber-automation/src/main/resources/features/placeholder.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../../Cucumber/aqa/cucumber-automation/src/main/resources/features/pty/e2e/my_account.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../../Cucumber/aqa/cucumber-automation/src/main/resources/features/smoke.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../../Cucumber/aqa/epam-automation/src/main/java/ca/canadiantire/stepdefs/hybris/webservices/order/WebserviceHybrisOrderDefinitionSteps.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../../Cucumber/aqa/epam-automation/src/main/resources/features/placeholder.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../../Cucumber/aqa/epam-automation/src/main/resources/features/regression/equity/equity_flow.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../../Cucumber/aqa/epam-automation/src/main/resources/features/smoke.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../../Jbehave/aqa/qa-framework-ecom-smoke/src/test/resources/stories/hybris/webServices/dth_2b/update_getting_rest_api_response_in_order_to_display_hs_product_on_resp_cockpit.story">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../../Jbehave/aqa/qa-framework-ecom-smoke/src/test/resources/suites/service/temp_suite.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/AvicTests.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/AvicTestsImpr.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/TestYaposhka.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/TestYaposhkaImpr.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/TestYaposhkaImproved.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/avic/AvicTests.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/testng.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/testng_imp.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
